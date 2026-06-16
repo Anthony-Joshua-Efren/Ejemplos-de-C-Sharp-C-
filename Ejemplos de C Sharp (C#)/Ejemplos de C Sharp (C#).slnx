@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ejemplo 1/Ejemplo 1.csproj" />
+  <Project Path="Ejemplo 2/Ejemplo 2.csproj" />
+  <Project Path="Ejemplo 3/Ejemplo 3.csproj" Id="ba853a5b-95a3-45b3-981a-aa80f7bad4e1" />
+</Solution>

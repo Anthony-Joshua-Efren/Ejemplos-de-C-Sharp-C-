@@ -1,0 +1,14 @@
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\bin\Debug\net10.0\Ejemplo 2.exe
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\bin\Debug\net10.0\Ejemplo 2.deps.json
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\bin\Debug\net10.0\Ejemplo 2.runtimeconfig.json
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\bin\Debug\net10.0\Ejemplo 2.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\bin\Debug\net10.0\Ejemplo 2.pdb
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.AssemblyInfoInputs.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.AssemblyInfo.cs
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.csproj.CoreCompileInputs.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\refint\Ejemplo 2.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.pdb
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\Ejemplo 2.genruntimeconfig.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 2\obj\Debug\net10.0\ref\Ejemplo 2.dll
