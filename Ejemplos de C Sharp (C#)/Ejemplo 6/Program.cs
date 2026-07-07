@@ -156,7 +156,8 @@
             TimeSpan b = TimeSpan.FromMinutes(30);
 
             Console.WriteLine($"\ta = {a}");
-            Console.WriteLine($"\tb = {b}\n");
+            
+            Console.WriteLine($"\tb = {b}");
 
             Console.WriteLine($"\tSuma = {a + b}");
 
