@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ejemplo_15.Program">
+    <Position X="3.75" Y="5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEBAAABAAAAAABAACABAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo_15.Producto_CRUD">
+    <Position X="0.75" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAQAAAAAAACAAAAAAIAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Producto_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo_15.Producto">
+    <Position X="3.75" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAAAAAACAgAAAAAAEAAEIEgAAAAAABADAAkA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo_15.Conexión_BD">
+    <Position X="0.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Conexión_BD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo_15.BD">
+    <Position X="1.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
