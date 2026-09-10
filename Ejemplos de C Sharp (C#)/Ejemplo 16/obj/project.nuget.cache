@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "yZHcOzlI5aA=",
+  "success": true,
+  "projectFilePath": "D:\\Curso de Herramientas de Programación\\Unidad Didáctica III. Programación de Aplicaciones Básicas\\Ejemplos de C#\\Ejemplos de C Sharp (C#)\\Ejemplo 16\\Ejemplo 16.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\documentformat.openxml\\3.1.1\\documentformat.openxml.3.1.1.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\documentformat.openxml.framework\\3.1.1\\documentformat.openxml.framework.3.1.1.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

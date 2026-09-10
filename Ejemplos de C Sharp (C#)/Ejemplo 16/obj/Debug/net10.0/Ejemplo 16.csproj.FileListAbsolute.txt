@@ -1,0 +1,24 @@
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\Ejemplo 16.exe
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\Ejemplo 16.deps.json
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\Ejemplo 16.runtimeconfig.json
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\Ejemplo 16.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\Ejemplo 16.pdb
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.AssemblyInfoInputs.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.AssemblyInfo.cs
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.csproj.CoreCompileInputs.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\refint\Ejemplo 16.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.pdb
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.genruntimeconfig.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\ref\Ejemplo 16.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\ClosedXML.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\ClosedXML.Parser.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\DocumentFormat.OpenXml.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\DocumentFormat.OpenXml.Framework.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\ExcelNumberFormat.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\RBush.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\SixLabors.Fonts.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\bin\Debug\net10.0\System.IO.Packaging.dll
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.csproj.AssemblyReference.cache
+D:\Curso de Herramientas de Programación\Unidad Didáctica III. Programación de Aplicaciones Básicas\Ejemplos de C#\Ejemplos de C Sharp (C#)\Ejemplo 16\obj\Debug\net10.0\Ejemplo 16.csproj.Up2Date
